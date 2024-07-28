@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@fastify/error": "^4.0.0",
+    "close-with-grace": "^1.3.0",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.28.1",
+    "pino-pretty": "^11.2.2"
+  },
+  "name": "fone",
+  "version": "1.0.0",
+  "main": "our-first-route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "my-todo",
+      "description": "Work on fastify",
+      "completed": false,
+      "created_at": 1722095051,
+      "modified_at": 1722095051
+    }
+  ]
+}
